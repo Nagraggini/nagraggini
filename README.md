@@ -50,3 +50,26 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 <div>
   <img src="Assets/Icons/vscode-original.svg" height="30" title="Visual Studio Code"/>
 </div>
+
+##Skills
+
+**HTML**
+<div style="background:#ddd; border-radius:10px; width:200px;">
+  <div style="background:#4caf50; width:90%; padding:4px; border-radius:10px; color:white; font-size:12px;">
+    90%
+  </div>
+</div>
+
+**CSS**
+<div style="background:#ddd; border-radius:10px; width:200px;">
+  <div style="background:#2196f3; width:80%; padding:4px; border-radius:10px; color:white; font-size:12px;">
+    80%
+  </div>
+</div>
+
+**JavaScript**
+<div style="background:#ddd; border-radius:10px; width:200px;">
+  <div style="background:#ff9900; width:60%; padding:4px; border-radius:10px; color:white; font-size:12px;">
+    60%
+  </div>
+</div>
