@@ -11,7 +11,7 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagraggini&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nagraggini&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nagraggini&theme=tokyonight)
 
 <!--Profile visitors:-->
 <!-- ![](https://komarev.com/ghpvc/?username=Nagraggini&color=blue)-->
