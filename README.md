@@ -7,6 +7,8 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 
 <p> <a href="https://nagraggini.github.io/Project-showcase/index.html"> View my Websites</a></p>
 
+<p><a href="https://nagraggini.github.io/Web-practising-and-fun/Web_Development/Practising/1-HTML%20Practising/2-Blog.html"> My IT Blog (only Hungarian yet)</a></p>
+
 ## 📜 Github stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagraggini&layout=compact&theme=radical)
