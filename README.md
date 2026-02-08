@@ -35,16 +35,6 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 <div>
   <img src="Assets/Icons/microsoftsqlserver-original.svg" height="30" title="Microsoft SQL Server">
   <img src="Assets/Icons/python-original.svg" height="30" title="Python"/>
-  <img 
-    src="Assets/Icons/flask-original.svg"
-    alt="Flask"
-    height="30"
-    title="Flask"
-    style="background-color: rgba(255, 255, 255, 1);
-           padding: 5px;
-           border-radius: 5px;
-          border: 2px solid pink;"
-  />
   <img src="Assets/Icons/azure-icon.svg" height="30" title="Azure">
 </div>
 
@@ -52,9 +42,13 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 
 <div>
   <img src="Assets/Icons/vscode-original.svg" height="30" title="Visual Studio Code"/>
+  <img src="Assets/Icons/eclipse-icon.svg" height="30" title="Eclipse"/>
 </div>
 
 ## Skills
+
+**Java**  
+🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜ 40%
 
 **HTML**  
 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
@@ -65,5 +59,3 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 **JavaScript**  
 🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜ 50%
 
-**Java**  
-🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜ 40%
