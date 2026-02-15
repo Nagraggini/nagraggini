@@ -59,3 +59,5 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 **JavaScript**  
 🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜ 50%
 
+I am listed among the most active GitHub users in Hungary:      
+[List](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/hungary.md)
