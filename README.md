@@ -11,8 +11,6 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 
 ## 📜 Github stats:
 
-![alt text](image.png)
-
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagraggini&layout=compact&theme=radical)-->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nagraggini&theme=tokyonight)
