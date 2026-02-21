@@ -18,6 +18,8 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 <!--Profile visitors:-->
 <!-- ![](https://komarev.com/ghpvc/?username=Nagraggini&color=blue)-->
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagraggini&theme=github_dark)
+
 ## 💻 Technologies & Tools:
 
 ### Frontend
