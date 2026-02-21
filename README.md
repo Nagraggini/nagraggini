@@ -20,6 +20,10 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagraggini&theme=github_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nagraggini&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nagraggini&theme=default)
+
 ## 💻 Technologies & Tools:
 
 ### Frontend
