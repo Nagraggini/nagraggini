@@ -1,9 +1,8 @@
 # Hi 👋 Welcome! My name is Andrea Freud.
 
 I started this project to become a backend developer — not just by watching tutorials, but by building real systems and solving practical problems.
-The tasks are becoming progressively more challenging, focusing on server-side logic, databases, and API development.
-By the end of this journey, my goal is to confidently design, build, and launch robust backend applications.
 
+I am focused on mastering server-side logic, database management, and building scalable REST APIs. My goal is to design and maintain robust backend systems.
 <p> <a href="https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf"> View My CV </a></p>
 
 <p> <a href="https://nagraggini.github.io/Project-showcase/index.html"> View my Web Projects</a></p>
@@ -52,6 +51,11 @@ By the end of this journey, my goal is to confidently design, build, and launch 
 
 **Java**  
 🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 50%
+
+Backend: Java (Core), Spring Boot, Hibernate/JPA.
+Database: SQL (PostgreSQL/MySQL), H2.
+Tools: Maven, Git, Docker.
+Testing: JUnit 5, Mockito.
 
 **HTML**  
 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 75%
