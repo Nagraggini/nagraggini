@@ -1,6 +1,8 @@
 # Hi 👋 Welcome! My name is Andrea Freud.
 
-I started this project to become a backend developer — not just by watching tutorials, but by building real systems and solving practical problems.
+Backend Developer • Java • Spring Boot
+
+I started this journey to become a backend developer — not just by watching tutorials, but by building real systems and solving practical problems.
 
 I am focused on mastering server-side logic, database management, and building scalable REST APIs. My goal is to design and maintain robust backend systems.
 <p> <a href="https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf"> View My CV </a></p>
@@ -22,49 +24,42 @@ I am focused on mastering server-side logic, database management, and building s
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nagraggini&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nagraggini&theme=github_dark)
 
-## 💻 Technologies & Tools:
-
-### Frontend
-
-<div style="display:flex; flex-direction:row; gap:10px;">
-  <img src="Assets/Icons/html5-original.svg" alt="HTML5" height="30" />
-  <img src="Assets/Icons/css3-original.svg" alt="CSS3" height="30" />
-  <img src="Assets/Icons/javascript-original.svg" height="30" title="Javascript"/>   
-</div>
+## Tech Stack
 
 ### Backend
+- Java
+- Spring Boot
+- Hibernate / JPA
+- REST APIs
 
-<div style="display:flex; flex-direction:row; gap:10px;">
-  <img src="Assets/Icons/Spring_Boot.svg" height="30" title="Spring Boot">
-  <img src="Assets/Icons/Postgresql_elephant.svg" height="30" title="PostgreSQL"/>
-  <img src="Assets/Icons/api-code-file-icon.svg" height="30" title="REST API">
-</div>
+### Databases
+- PostgreSQL
+- MySQL
+- H2
+
+### DevOps / Infrastructure
+- Docker
+- Git
+- GitHub Actions (CI/CD)
+- Linux
 
 ### Tools
+- Maven
+- VS Code
+- Eclipse
 
-<div style="display:flex; flex-direction:row; gap:10px;">
-  <img src="Assets/Icons/vscode-original.svg" height="30" title="Visual Studio Code"/>
-  <img src="Assets/Icons/eclipse-icon.svg" height="30" title="Eclipse"/>
-</div>
-
-## Skills
-
-**Java**  
-🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 50%
+### Backend Experience
 
 Backend: Java (Core), Spring Boot, Hibernate/JPA.
 Database: SQL (PostgreSQL/MySQL), H2.
 Tools: Maven, Git, Docker.
 Testing: JUnit 5, Mockito.
 
-**HTML**  
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 75%
+## ⭐ Featured Projects
 
-**CSS**  
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 65%
-
-**JavaScript**  
-🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 55%
+🔹 Spring Boot REST API  
+🔹 Dockerized backend service  
+🔹 PostgreSQL database project
 
 I am listed among the most active GitHub users in Hungary:  
 [List](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/hungary.md)
