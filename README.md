@@ -53,10 +53,10 @@ I am focused on mastering server-side logic, database management, and building s
 
 ### Core Skills
 
-Backend: Java (Core), Spring Boot, Hibernate/JPA, REST API.
-Database: SQL (PostgreSQL/MySQL), H2.
-Tools: Maven, Git, Docker.
-Testing: JUnit 5, Mockito.
+Backend: Java (Core), Spring Boot, Hibernate/JPA, REST API.         
+Database: SQL (PostgreSQL/MySQL), H2.           
+Tools: Maven, Git, Docker.          
+Testing: JUnit 5, Mockito.      
 
 ## ⭐ Featured Projects
 
