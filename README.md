@@ -7,7 +7,7 @@ I started this journey to become a backend developer — not just by watching tu
 I am focused on mastering server-side logic, database management, and building scalable REST APIs. My goal is to design and maintain robust backend systems.
 <p> <a href="https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf"> View My CV </a></p>
 
-<p> <a href="https://nagraggini.github.io/Project-showcase/"> View my Web Projects</a></p>
+<p> <a href="https://nagraggini.github.io/project-showcase/"> View my Web Projects</a></p>
 
 <p><a href="https://blog-sqj1.onrender.com/"> My IT Blog (only Hungarian yet)</a></p>
 
