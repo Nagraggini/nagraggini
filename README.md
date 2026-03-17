@@ -9,7 +9,7 @@ I am focused on mastering server-side logic, database management, and building s
 
 <p> <a href="https://nagraggini.github.io/project-showcase/"> View my Web Projects</a></p>
 
-<p><a href="https://blog-sqj1.onrender.com/"> My IT Blog (only Hungarian yet)</a></p>
+<p><a href="https://nagraggini-blog.onrender.com/"> My IT Blog (only Hungarian yet)</a></p>
 
 ## 📜 Github stats:
 
