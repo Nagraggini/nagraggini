@@ -1,36 +1,39 @@
-# Hi 👋 Welcome! My name is Andrea Freud.
+# Hello  🖐️ I'm Andrea Freud
 
-Backend Developer • Java • Spring Boot
+Junior Backend Developer • Java • Spring Boot
 
 I started this journey to become a backend developer — not just by watching tutorials, but by building real systems and solving practical problems.
 
 I am focused on mastering server-side logic, database management, and building scalable REST APIs. My goal is to design and maintain robust backend systems.
-<p> <a href="https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf"> View My CV </a></p>
 
-<p> <a href="https://nagraggini.github.io/project-showcase/"> View my Web Projects</a></p>
+## Live Projects
 
-<p><a href="https://nagraggini-blog.onrender.com/"> My IT Blog (only Hungarian yet)</a></p>
+[View My CV](https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf)
+
+[View my Web Projects](https://nagraggini.github.io/project-showcase/)
+
+[My IT Blog (currently in Hungarian)](https://nagraggini-blog.onrender.com/)
+
+[Animal Shelter App](https://animal-shelter-hro5.onrender.com/)
+
+[Student Registry App (WIP)](https://student-registry-app-2gv1.onrender.com/)
+
+[Spring Boot for Beginners (WIP)](https://springboot-for-beginners.onrender.com/)
 
 ## 📜 Github stats:
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagraggini&layout=compact&theme=radical)-->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagraggini&layout=compact&theme=tokyonight) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nagraggini&theme=tokyonight)
 
-<!--Profile visitors:-->
-<!-- ![](https://komarev.com/ghpvc/?username=Nagraggini&color=blue)-->
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagraggini&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagraggini&show_icons=true&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nagraggini&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nagraggini&theme=github_dark)
+<!-- ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagraggini&theme=github_dark)-->
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nagraggini&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nagraggini&theme=github_dark) -->
 
 ## Tech Stack
-
-### Backend
-- Java
-- Spring Boot
-- Hibernate / JPA
-- REST APIs
 
 ### Databases
 - PostgreSQL
@@ -48,18 +51,25 @@ I am focused on mastering server-side logic, database management, and building s
 - VS Code
 - Eclipse
 
-### Backend Experience
+### Core Skills
 
-Backend: Java (Core), Spring Boot, Hibernate/JPA.
+Backend: Java (Core), Spring Boot, Hibernate/JPA, REST API.
 Database: SQL (PostgreSQL/MySQL), H2.
 Tools: Maven, Git, Docker.
 Testing: JUnit 5, Mockito.
 
 ## ⭐ Featured Projects
 
-🔹 Spring Boot REST API  
-🔹 Dockerized backend service  
-🔹 PostgreSQL database project
+### 🔹 Spring Boot REST API
+Backend application built with Spring Boot, featuring REST endpoints and server-side logic for data management.  
+
+### 🔹 Dockerized Backend Service
+Java application containerized using Docker, including database integration and automated deployment setup.  
+
+### 🔹 PostgreSQL Database Project
+Relational database project demonstrating SQL query optimization and schema design for scalable applications.
 
 I am listed among the most active GitHub users in Hungary:  
 [List](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/hungary.md)
+
+I am actively looking for backend developer opportunities where I can contribute and grow.
