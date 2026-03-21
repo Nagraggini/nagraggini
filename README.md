@@ -72,4 +72,14 @@ I am focused on mastering server-side logic, database management, and building s
 I am listed among the most active GitHub users in Hungary:  
 [List](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/hungary.md)
 
+[![committers.top badge](https://user-badge.committers.top/hungary/Nagraggini.svg)](https://user-badge.committers.top/hungary/Nagraggini)
+
+
 I am actively looking for backend developer opportunities where I can contribute and grow.
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Nagraggini)
