@@ -77,5 +77,5 @@ I am listed among the most active GitHub users in Hungary:
 
 I am actively looking for backend developer opportunities where I can contribute and grow.
 
-![snake light](https://github.com/Nagraggini/Nagraggini/blob/output/github-contribution-grid-snake.svg)
+<!--![snake light](https://github.com/Nagraggini/Nagraggini/blob/output/github-contribution-grid-snake.svg)-->
 ![snake dark](https://github.com/Nagraggini/Nagraggini/blob/output/github-contribution-grid-snake-dark.svg)
