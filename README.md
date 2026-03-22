@@ -25,7 +25,6 @@ I am focused on mastering server-side logic, database management, and building s
 
 ### Databases
 - PostgreSQL
-- MySQL
 - H2
 
 ### DevOps / Infrastructure
@@ -41,7 +40,7 @@ I am focused on mastering server-side logic, database management, and building s
 
 ### Core Skills
 - Backend: Java (Core), Spring Boot, Hibernate/JPA, REST API
-- Database: SQL (PostgreSQL/MySQL), H2
+- Database: SQL (PostgreSQL), H2
 - Tools: Maven, Git, Docker
 - Testing: JUnit 5, Mockito
 
@@ -70,7 +69,6 @@ I am focused on mastering server-side logic, database management, and building s
 - **Inventory Management System** (inventory-management-system) – Product and stock management system  
 
 I am listed among the most active GitHub users in Hungary:  
-[List](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/hungary.md)
 
 [![committers.top badge](https://user-badge.committers.top/hungary/Nagraggini.svg)](https://user-badge.committers.top/hungary/Nagraggini)
 
