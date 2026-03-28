@@ -66,7 +66,8 @@ I am focused on mastering server-side logic, database management, and building s
 - **Spring Boot Login and Registration** (spring-boot-login-and-registration) – User login and registration system  
 - **Spring Boot JWT Auth** (spring-boot-jwt-auth) – Authentication REST API with JWT and Spring Security  
 - **Chat Application** (chat-application) – Real-time messaging application  
-- **Inventory Management System** (inventory-management-system) – Product and stock management system  
+- **Inventory Management System** (inventory-management-system) – Product and stock management system
+- **Auction Platform with Payment Integration** (System for managing auctions, bids, and simulated bank transfer transactions)
 
 I am listed among the most active GitHub users in Hungary:  
 
