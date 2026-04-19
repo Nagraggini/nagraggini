@@ -11,7 +11,7 @@ I am focused on mastering server-side logic, database management, and building s
 ## Live Projects
 
 - [View my Web Projects](https://nagraggini.github.io/project-showcase/)
-- [My IT Blog (currently in Hungarian)](https://nagraggini-blog.onrender.com/)
+- [My IT book (currently in Hungarian)](https://nagraggini.github.io/my-awesome-book/)
 - [Animal Shelter App](https://animal-shelter-hro5.onrender.com/)
 - [Student Registry App (WIP)](https://student-registry-app-2gv1.onrender.com/)
 - [Spring Boot for Beginners (WIP)](https://springboot-for-beginners.onrender.com/)
