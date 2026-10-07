@@ -28,11 +28,6 @@ I continuously develop my software engineering skills through real-world project
 - **Description:** End-to-end UI test automation framework built with Playwright and the Page Object Model pattern.
 - **Tech:** TypeScript, Playwright, Page Object Model, GitHub Actions, Allure Report
 - → [Repository](https://github.com/Nagraggini/katalon-demo-cura)
-  
-### 🔹 Animal Shelter Web Application
-- **Description:** Full-stack web application for managing animal shelter records.  
-- **Tech:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Hibernate, REST API, GitHub Actions
-- → [Repository](https://github.com/Nagraggini/animal-shelter)
 
 ### 🔹 My Programming Handbook (Hungarian)
 - **Description:** A practical and welcoming place to learn Java, strengthen programming fundamentals, and build better code. 
