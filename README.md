@@ -40,22 +40,19 @@ These are only a selection of my projects. You can find the rest of my work in m
 
 ## 📜 Github stats
 
-&nbsp;![](https://komarev.com/ghpvc/?username=Nagraggini&color=brightgreen)
-
-<div align="center">
-  <img
-    src="https://github-statspro.vercel.app/api/stats/Nagraggini?theme=dark"
-    alt="GitHub Stats"
-    height="230"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=Nagraggini&background=000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&currStreakNum=FFFFFF&sideNums=FFFFFF&border=333333"
-    alt="GitHub Streak"
-    height="230"
-  />
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nagraggini&style=flat-square&color=58A6FF&label=views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Nagraggini?style=flat-square&color=58A6FF&labelColor=0D1117&logo=github&label=followers" />
+  &nbsp;
+  <a href="https://twitter.com/Nagraggini">
+    <img src="https://img.shields.io/badge/@Nagraggini-000?style=flat-square&logo=X&logoColor=white" />
+  </a>
 </div>
 
-
+<div align="center">
+  <img src="https://github-analytics-incog.vercel.app/api?username=Nagraggini&theme=github_dark" alt="GitHub Analytics" />
+</div>
 
 ## Tech Stack
 
