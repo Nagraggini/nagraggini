@@ -40,8 +40,22 @@ These are only a selection of my projects. You can find the rest of my work in m
 
 ## 📜 Github stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nagraggini&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagraggini&show_icons=true&theme=tokyonight)
+&nbsp;![](https://komarev.com/ghpvc/?username=Nagraggini&color=brightgreen)
+
+<div align="center">
+  <img
+    src="https://github-statspro.vercel.app/api/stats/Nagraggini?theme=dark"
+    alt="GitHub Stats"
+    height="230"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Nagraggini&background=000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&currStreakNum=FFFFFF&sideNums=FFFFFF&border=333333"
+    alt="GitHub Streak"
+    height="230"
+  />
+</div>
+
+
 
 ## Tech Stack
 
@@ -83,3 +97,18 @@ I am actively looking for opportunities where I can combine
   <img alt="Pacman contribution graph"
     src="https://raw.githubusercontent.com/Nagraggini/Nagraggini/output/pacman-contribution-graph.svg">
 </picture>
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="650"/>
+
+</div>
+
+<!-- FOOTER -->
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
+
